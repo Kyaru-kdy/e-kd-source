@@ -38,7 +38,7 @@ metaLinks:
 
 주소&#x20;: 경기 성남시 분당구 정자동 127-12&#x20;
 
-<a href="quickstart.md" class="button primary" data-icon="book">자기소개서 보기</a>
+<a href="quickstart.md" class="button primary" data-icon="book">자기소개서</a>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -51,7 +51,7 @@ metaLinks:
 조이시티\
 2024.08.14 \~ 2025.12.01 (16개월)&#x20;
 
-<a href="https://app.gitbook.com/s/4Bin9UnXClDKSVvKhjqb/" class="button primary" data-icon="sensor-cloud">상세 경력 기술서</a>&#x20;
+<a href="../undefined/undefined.md" class="button primary" data-icon="sensor-cloud">경력 기술서</a>&#x20;
 {% endcolumn %}
 {% endcolumns %}
 
@@ -92,4 +92,3 @@ metaLinks:
 * 그외 : Excel VBA
 {% endcolumn %}
 {% endcolumns %}
-
