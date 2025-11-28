@@ -1,6 +1,5 @@
 ---
 noIndex: true
-icon: bolt
 layout:
   width: default
   title:

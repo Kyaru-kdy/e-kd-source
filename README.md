@@ -31,16 +31,15 @@ metaLinks:
 
 생년월일 : 1998.12.23 (만 26세)
 
-경력 : 조이시티  ( 2024.08.14\~ )\
-모히또 스튜디오 \[스타시드 : 아스니아 트리거] - 시스템, 라이브 기획
 
 
 
-<a href="readme/quickstart.md" class="button primary" data-icon="book">자기소개서 보기</a>
+
+
 
 <a href="readme/publish-your-docs.md" class="button secondary" data-icon="book">이력서 펼쳐보기</a>
 
-
+<a href="readme/quickstart.md" class="button primary" data-icon="book">자기소개서 보기</a>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -48,9 +47,10 @@ metaLinks:
 {% column %}
 ### 경력 기술
 
-Setting up your first API call should be the easiest part of getting started. With clear endpoints, copy-paste-ready examples, and quick authentication, you’ll be up and running in minutes—not hours.
+경력 : 조이시티  ( 2024.08.14\~ )\
+모히또 스튜디오 \[스타시드 : 아스니아 트리거] - 시스템, 라이브 기획
 
-No guesswork, no complexity—just your first successful call, fast.
+ㅇ
 
 <a href="https://app.gitbook.com/s/4Bin9UnXClDKSVvKhjqb/" class="button primary" data-icon="sensor-cloud">상세 경력 기술서</a>&#x20;
 {% endcolumn %}
@@ -80,7 +80,3 @@ No guesswork, no complexity—just your first successful call, fast.
 <h2 align="center">추가 포트폴리오</h2>
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-1">:1:</i></h4></td><td><strong>신규 이벤트 미니 게임 기획</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://app.gitbook.com/o/zw4pqZJfwZP9mA5JIssA/s/OVrX5gqTzSenuUUzzFO6/">이력서</a></td><td><a href=".gitbook/assets/image (7).png">image (7).png</a></td></tr><tr><td><h4><i class="fa-2">:2:</i></h4></td><td><strong>토토 엉덩이 토닥토닥 2</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://app.gitbook.com/o/zw4pqZJfwZP9mA5JIssA/s/OVrX5gqTzSenuUUzzFO6/">이력서</a></td><td><a href=".gitbook/assets/image (8).png">image (8).png</a></td></tr><tr><td><h4><i class="fa-3">:3:</i></h4></td><td><strong>판판판 3탄</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://app.gitbook.com/o/zw4pqZJfwZP9mA5JIssA/s/aMmxkNfgXAqO3WLJbMwT/">API Reference</a></td><td><a href=".gitbook/assets/image (9).png">image (9).png</a></td></tr></tbody></table>
-
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
