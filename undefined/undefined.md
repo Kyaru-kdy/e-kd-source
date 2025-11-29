@@ -1,5 +1,4 @@
 ---
-icon: server
 layout:
   width: default
   title:

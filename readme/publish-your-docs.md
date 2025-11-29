@@ -87,8 +87,10 @@ metaLinks:
 * 엔진 : Unity 3D
   * Prefab 수정, 적용
   * 컴포넌트를 관리하고 기획에 포함 시킬 수 있습니다
-* 협업 메신저 : Slack / Microsoft Teams
+* AI&#x20;
+  * LLM (gpt 등)을 이용하여 python, VBA를 적극적으로 사용
+  * Stable Diffusion web UI를 사용해 복잡한 이미지 생성이 가능하고, UI / 배경 요청에 적극 이용한 경험이 있습니다
+* 협업 메신저 : Slack / Teams
 * 문서 : Confluence / Notion / OneNote
-* 그외 : Excel VBA
 {% endcolumn %}
 {% endcolumns %}
